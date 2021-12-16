@@ -39,7 +39,6 @@ public class TiposDados {
         System.out.println(i2);
         System.out.println(b1);
         System.out.println(l1);
-        System.out.println(l2);
         System.out.println(f2);
         System.out.println(d1);
         System.out.println(d2);
